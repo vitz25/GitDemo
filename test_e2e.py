@@ -9,6 +9,9 @@ from PageObjects.CheckoutPage import CheckOutPage
 from PageObjects.HomePage import HomePage
 from utilities.BaseClass import Baseclass
 
+class Test():
+    pass
+
 class Testone(Baseclass):
 
     def test_e2e(self):

@@ -13,6 +13,8 @@ class Test():
     pass
 
 class Testone(Baseclass):
+    def test(self):
+        pass
 
     def test_e2e(self):
         log = self.getLogger()
